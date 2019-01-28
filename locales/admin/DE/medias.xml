@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<img_label><![CDATA[Bild]]></img_label>
+	<audio_label><![CDATA[Audio]]></audio_label>
+	<video_label><![CDATA[Video]]></video_label>
+	<flux_label><![CDATA[fließen]]></flux_label>
+	<iframe_label><![CDATA[eingebettet]]></iframe_label>
+	<pdf_label><![CDATA[pdf]]></pdf_label>
+	<zip_label><![CDATA[komprimierte Datei]]></zip_label>
+	<MEDIA_MANAGER><![CDATA[Media Manager]]></MEDIA_MANAGER>
+	<ARCHIVED_MEDIA_MANAGER><![CDATA[Archivierter medienmanager]]></ARCHIVED_MEDIA_MANAGER>
+	<MEDIA_TRANSLATIONS><![CDATA[Übersetzungen]]></MEDIA_TRANSLATIONS>
+	<MANAGE_MEDIAS><![CDATA[Verwalten medien]]></MANAGE_MEDIAS>
+	<MANAGE_ARCHIVED_MEDIAS><![CDATA[Verwalten archivierten Medien]]></MANAGE_ARCHIVED_MEDIAS>
+	<MEDIA_TYPE><![CDATA[Medientyp]]></MEDIA_TYPE>
+	<ACTIVE_MEDIAS><![CDATA[Aktive medien]]></ACTIVE_MEDIAS>
+	<UPLOAD_MEDIA><![CDATA[Hochladen von Medien]]></UPLOAD_MEDIA>
+	<ADD_MEDIA><![CDATA[Artikel hinzufügen]]></ADD_MEDIA>
+	<UPDATE_MEDIA><![CDATA[Bearbeiten von Medien]]></UPDATE_MEDIA>
+	<CURRENT_VALUE><![CDATA[Stromwert]]></CURRENT_VALUE>
+	<CONFIRM_ARCHIVE_MEDIA><![CDATA[Sind Sie sicher, dass Sie dieses Medium zu archivieren ?]]></CONFIRM_ARCHIVE_MEDIA>
+	<CONFIRM_DELETE_MEDIA><![CDATA[Sind Sie sicher, dass Sie dieses Medium zu löschen?]]></CONFIRM_DELETE_MEDIA>
+	<DELETE_ALL_ARCHIVED_MEDIA><![CDATA[Löschen Sie alle archivierten Medien]]></DELETE_ALL_ARCHIVED_MEDIA>
+	<CONFIRM_DELETE_ALL_MEDIA><![CDATA[Möchten Sie alle archivierten Medien wirklich löschen?]]></CONFIRM_DELETE_ALL_MEDIA>
+	<SEARCH_MEDIA><![CDATA[Suche Medien]]></SEARCH_MEDIA>
+	<MEDIA_FOUND><![CDATA[Medien mit Ihrem Stichwort gefunden:]]></MEDIA_FOUND>
+	<NO_MEDIA_FOUND><![CDATA[Keine Medien mit Ihrem Stichwort gefunden]]></NO_MEDIA_FOUND>
+	<NO_MEDIA><![CDATA[Keine Medien.]]></NO_MEDIA>
+	<NO_PREVIEW_AVAILABLE><![CDATA[Keine Vorschau vorhanden]]></NO_PREVIEW_AVAILABLE>
+	<SUCCESS_ADD_MEDIA><![CDATA[Medien erfolgreich hinzugefügt]]></SUCCESS_ADD_MEDIA>
+	<ERROR_CAN_NOT_ADD_MEDIA><![CDATA[Kann nicht Medien hinzufügen]]></ERROR_CAN_NOT_ADD_MEDIA>
+	<SUCCESS_UPDATE_MEDIA><![CDATA[Medien erfolgreich aktualisiert]]></SUCCESS_UPDATE_MEDIA>
+	<ERROR_CAN_NOT_UPDATE_MEDIA><![CDATA[Konnte nicht die Medien aktualisieren]]></ERROR_CAN_NOT_UPDATE_MEDIA>
+	<SUCCESS_ARCHIVE_MEDIA><![CDATA[Medien erfolgreich archiviert ]]></SUCCESS_ARCHIVE_MEDIA>
+	<ERROR_CAN_NOT_ARCHIVE_MEDIA><![CDATA[Unfähig, die Medien zu archivier]]></ERROR_CAN_NOT_ARCHIVE_MEDIA>
+	<SUCCESS_DELETE_MEDIA><![CDATA[Medien erfolgreich gelöscht]]></SUCCESS_DELETE_MEDIA>
+	<ERROR_CAN_NOT_DELETE_MEDIA><![CDATA[Unfähig, die Medien zu entfernen]]></ERROR_CAN_NOT_DELETE_MEDIA>
+	<SUCCESS_RESTORE_MEDIA><![CDATA[Medien erfolgreich wiederhergestellt]]></SUCCESS_RESTORE_MEDIA>
+	<ERROR_CAN_NOT_RESTORE_MEDIA><![CDATA[Unfähig medien wiederherstellen]]></ERROR_CAN_NOT_RESTORE_MEDIA>
+	<ERROR_CAN_NOT_RESIZE_IMG><![CDATA[Das Bild kann nicht die Größe]]></ERROR_CAN_NOT_RESIZE_IMG>
+	<INVALID_FILE><![CDATA[Ungültige Dateityp]]></INVALID_FILE>
+	<INVALID_URL><![CDATA[Ungültige URL]]></INVALID_URL>
+	<MEDIA_OPS_MENU><![CDATA[Medienoperationen]]></MEDIA_OPS_MENU>
+	<THUMBNAILS_SECTION><![CDATA[Thumbnail-Bereich]]></THUMBNAILS_SECTION>
+	<SUCCESS_GENERATE_THUMBNAILS><![CDATA[Erfolgreich thumbnails erzeugt.]]></SUCCESS_GENERATE_THUMBNAILS>
+	<ERROR_GENERATE_THUMBNAILS><![CDATA[Unfähig, die thumbnails zu erzeugen.]]></ERROR_GENERATE_THUMBNAILS>
+	<SUCCESS_DELETE_THUMBNAILS><![CDATA[Erfolgreich thumbnails entfernt.]]></SUCCESS_DELETE_THUMBNAILS>
+	<ERROR_DELETE_THUMBNAILS><![CDATA[Unfähig, die thumbnails zu entfernen.]]></ERROR_DELETE_THUMBNAILS>
+	<THUMB_MAX_SIZE><![CDATA[Maximale größe]]></THUMB_MAX_SIZE>
+	<THUMB_MAX_SIZE_TOOLTIP><![CDATA[]]></THUMB_MAX_SIZE_TOOLTIP>
+	<GENERATE_THUMBNAILS><![CDATA[Thumbnails]]></GENERATE_THUMBNAILS>
+	<NUMBER_THUMBNAILS_GENERATED><![CDATA[Anzahl der generierten Thumbnails: ]]></NUMBER_THUMBNAILS_GENERATED>
+	<ERROR_MAX_SIZE_MUST_BE_A_NUMBER><![CDATA[Die maximale Größe muss eine Zahl sein.]]></ERROR_MAX_SIZE_MUST_BE_A_NUMBER>
+	<ERROR_BAD_IMAGE_FORMAT><![CDATA[Das Bild ist nicht in einem anerkannten Format. Erlaubte Dateitypen: jpg, jpeg, gif, png.]]></ERROR_BAD_IMAGE_FORMAT>
+	<UNABLE_TO_WRITE_IMAGE><![CDATA[Das bild kann nicht schreiben.]]></UNABLE_TO_WRITE_IMAGE>
+	<GENERATE_MISSING_OGG_FILES><![CDATA[Generieren ogg-Dateien fehlen]]></GENERATE_MISSING_OGG_FILES>
+	<NO_OPERATION_FOR_MEDIA><![CDATA[Kein Betrieb möglich für diese Art von Medien]]></NO_OPERATION_FOR_MEDIA>
+	<DOWNLOAD_ALLOWED><![CDATA[Medien können von der Website heruntergeladen werde]]></DOWNLOAD_ALLOWED>
+	<EXTENSIONS_ALLOWED><![CDATA[Erweiterungen erlaubt: ]]></EXTENSIONS_ALLOWED>
+	<MEDIA_TRANSLATIONS_TOOLTIP><![CDATA[]]></MEDIA_TRANSLATIONS_TOOLTIP>
+	<TITLE_TOOLTIP><![CDATA[Dieses Feld wird in den Medientitel verwendet.
+	Dies wird auf die Übersicht über die Medien von der Maus sichtbar sein.]]></TITLE_TOOLTIP>
+	<ALT_TOOLTIP><![CDATA[]]></ALT_TOOLTIP>
+	<MP3_TOOLTIP><![CDATA[]]></MP3_TOOLTIP>
+	<OGG_TOOLTIP><![CDATA[]]></OGG_TOOLTIP>
+	<IFRAME_TOOLTIP><![CDATA[]]></IFRAME_TOOLTIP>
+	<SRC_TOOLTIP><![CDATA[]]></SRC_TOOLTIP>
+	<MP4_TOOLTIP><![CDATA[]]></MP4_TOOLTIP>
+	<POSTER_TOOLTIP><![CDATA[]]></POSTER_TOOLTIP>
+	<URL_TOOLTIP><![CDATA[]]></URL_TOOLTIP>
+	<MEDIA_DESCRIPTION_TOOLTIP><![CDATA[]]></MEDIA_DESCRIPTION_TOOLTIP>
+	<DOWNLOAD_ALLOWED_TOOLTIP><![CDATA[]]></DOWNLOAD_ALLOWED_TOOLTIP>
+	<IMG_MAX_SIZE_TOOLTIP><![CDATA[Maximale Größe Bilder]]></IMG_MAX_SIZE_TOOLTIP>
+	<IMG_THUMB_QUALITY_TOOLTIP><![CDATA[]]></IMG_THUMB_QUALITY_TOOLTIP>
+	<NB_MEDIA_PER_PAGE_TOOLTIP><![CDATA[]]></NB_MEDIA_PER_PAGE_TOOLTIP>
+	<CREATE_DEDICATED_PAGE><![CDATA[Erstellen sie eine seite dieser medien gewidmet]]></CREATE_DEDICATED_PAGE>
+	<CREATE_DEDICATED_PAGE_TOOLTIP><![CDATA[Sie können eine eigene Seite erstellen, die nur diese Medien umfassen wird]]></CREATE_DEDICATED_PAGE_TOOLTIP>
+	<PAGE_NAME><![CDATA[Seitenname]]></PAGE_NAME>
+	<CREATE_PAGE><![CDATA[Seite erstellen]]></CREATE_PAGE>
+	<UPDATE_DEDICATED_PAGE><![CDATA[Ändern Sie den Namen der Seite, auf diese Medien gewidmet]]></UPDATE_DEDICATED_PAGE>
+	<ERROR_PAGE_NOT_EXISTS><![CDATA[Die Seite, die Sie bearbeiten möchten, nicht vorhanden]]></ERROR_PAGE_NOT_EXISTS>
+	<THUMBNAILS_AVAILABLE_TITLE><![CDATA[verfügbar Miniatures]]></THUMBNAILS_AVAILABLE_TITLE>
+	<THUMBNAILS_AVAILABLE_TOOLTIP><![CDATA[Thumbnail liste der verfügbaren Größen]]></THUMBNAILS_AVAILABLE_TOOLTIP>
+	<UPDATE_THUMBNAILS><![CDATA[Update thumbnails]]></UPDATE_THUMBNAILS>
+</translations>

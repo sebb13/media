@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<routes><medias_home><![CDATA[Medias::getHomePage]]></medias_home><medias_add><![CDATA[Medias::getAddMediaPage]]></medias_add><medias_update><![CDATA[Medias::getUpdateMediaPage]]></medias_update><medias_manager><![CDATA[Medias::getMediasManagerPage]]></medias_manager></routes>
