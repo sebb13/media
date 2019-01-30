@@ -1,11 +1,4 @@
 -- phpMyAdmin SQL Dump
--- version 4.7.3
--- https://www.phpmyadmin.net/
---
--- Hôte : sqlprive-bs15341-001.privatesql
--- Généré le :  mer. 30 jan. 2019 à 10:59
--- Version du serveur :  5.6.39-log
--- Version de PHP :  5.6.38-0+deb8u1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
